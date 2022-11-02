@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "ZX870",
+        "type": "motherboard",
+        "amount": 5
+    },
+    {
+        "id": 2,
+        "name": "Kingston 16GB",
+        "type": "ram",
+        "amount": 2
+    },
+    {
+        "id": 3,
+        "name": "RTX 1650",
+        "type": "graphics_card",
+        "amount": 10
+    },
+    {
+        "id": 4,
+        "name": "Intel Kalbi Lake",
+        "type": "cpu",
+        "amount": 3
+    },
+    {
+        "id": 5,
+        "name": "Samsung 500GB SSD",
+        "type": "hard_drive",
+        "amount": 2
+    },
+    {
+        "id": 6,
+        "name": "TeraByte TB9000",
+        "type": "motherboard",
+        "amount": 2
+    }
+]
